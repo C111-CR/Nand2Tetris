@@ -1,0 +1,14 @@
+/*
+ * XNor is Not Xor
+ * out = 1 if a==b
+ *     = 0 else
+ */
+
+CHIP XNor{
+	IN a,b;
+	OUT out;
+	
+	PARTS:
+	Xor(a=a,b=b,out=tmpo);
+	Not(in=tmpo,out=out);
+}
