@@ -1,0 +1,5 @@
+# ninja log v5
+2	1021	6927360522066823	CMakeFiles/hack_assembler.dir/main.cpp.obj	cc81db7ba881e370
+1022	1732	6927360529127733	hack_assembler.exe	8c3afda4c5651d99
+1	758	6927377467279721	CMakeFiles/hack_assembler.dir/hack_assembler.cpp.obj	eba420f47838f927
+760	1270	6927377472345808	hack_assembler.exe	370a9dfa3d03ac09

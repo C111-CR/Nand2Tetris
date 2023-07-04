@@ -1,0 +1,3 @@
+C:/Users/crazy23/CLionProjects/hack_assembler/cmake-build-debug/CMakeFiles/hack_assembler.dir
+C:/Users/crazy23/CLionProjects/hack_assembler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crazy23/CLionProjects/hack_assembler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

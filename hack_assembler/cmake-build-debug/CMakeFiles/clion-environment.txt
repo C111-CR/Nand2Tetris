@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@E:\Dev-Cpp\TDM-GCC-64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=E:/CLion 2021.1.1/bin/ninja/win/ninja.exe
